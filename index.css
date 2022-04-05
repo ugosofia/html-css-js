@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(4, 4, 4);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color : white;
+     background: red;
+     margin: 26px;
+
+}
+
+.first-div{
+ color: magenta;   
+}
+.second-div{
+    color: cyan;
+}
+
+.first-div h1{
+color: red;
+}
+
+.second-div h1{
+    color: rgb(68, 235, 26);
+    }
