@@ -1,0 +1,58 @@
+form { 
+    margin: 20px; 
+    display: inline;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+body {
+    background: #F6F9FE;
+    color: #69B1D9;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+}
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    
+    
+  }
+
+fieldset input {
+    border: none;
+    float: left;
+    margin: 0 20px 0 15px;
+}
+
+
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 50%;
+        background-color: black;
+        color: white;
+        text-align: center; 
+        background-position: center;
+      }
+
