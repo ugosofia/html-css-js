@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    display: flex;
+    border: 1px solid;
+    width: 100%;
+    position: fixed;
+    padding: 30px;
+}
+
+.quadrati li {
+    display: inline-block;
+}
+
+.quadrato {
+    width: 100px;
+    height: 100px;
+    border: 2px black;
+    background: red;
+}
+
+p{
+    color: black;
+    size: 2px;
+}
